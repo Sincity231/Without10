@@ -1,3 +1,8 @@
+/**
+ * @author      Uddam Bhathal <Uddamsingh14@gmail.com>
+ * @version     1.2
+ * @since       1
+ */
 package com.company;
 public class Main {
     public static void main(String[] args) {
